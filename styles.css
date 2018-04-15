@@ -14,6 +14,11 @@ body {
 
 		}
 
+		#menu ul li a:hover{
+			color: lightblue;
+		}
+
+
 		#menu ul li a{
 			padding: 0px 5px;
 			display: inline-block;
@@ -24,7 +29,7 @@ body {
 
 		.perfil img {
 			position: absolute; 
-			left: 870px;
+			left: 570px;
 			border-radius: 100%;
 			border: 5px solid white;
 		}
@@ -34,7 +39,7 @@ body {
 		.capa img {	
 
 			position: absolute;  
-			left: 600px;
+			left: 300px;
 		}
 
 
@@ -65,3 +70,7 @@ img{
 	padding-left: 200px;
 	padding-right: 200px;	
 }
+body {
+    background-color:#f5f5f5 ;
+}
+

@@ -1,0 +1,67 @@
+body {
+			margin: 0;
+		}
+
+		#menu ul {
+			margin: 0;
+			background-color: #212f49;
+			list-style: none;
+		}
+
+
+		#menu ul li {
+			display: inline;
+
+		}
+
+		#menu ul li a{
+			padding: 0px 5px;
+			display: inline-block;
+
+			color: white;
+			text-decoration: none;
+		}
+
+		.perfil img {
+			position: absolute; 
+			left: 870px;
+			border-radius: 100%;
+			border: 5px solid white;
+		}
+
+
+
+		.capa img {	
+
+			position: absolute;  
+			left: 600px;
+		}
+
+
+		.texto h1 {
+			margin-top: 450px;
+			text-align: center;
+		}
+
+		.intro{
+			text-align: center;
+			padding-top: 200px;
+		}
+
+		
+.exp img{
+	width: 80px;
+	height: 80px;
+	padding-right: 15px;
+}
+		
+
+p.groove {border-style: groove;
+heigth:50px;}
+img{
+	float: left;
+}
+.conteudo{
+	padding-left: 200px;
+	padding-right: 200px;	
+}
